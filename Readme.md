@@ -54,7 +54,7 @@ El curso promueve el pensamiento lógico, la abstracción, la modularidad y el t
 - [StarUML](https://staruml.io)  
 - [PlantUML](https://plantuml.com/)  
 - [Lucidchart](https://www.lucidchart.com)  
-- [Moodle](https://moodle.org/) o [GitHub Classroom](https://classroom.github.com)  
+ 
 
 ---
 
