@@ -19,5 +19,11 @@ public class Usuario {
     public void logear() {
         System.out.println("Usuario " + nombre + " logeado.");
     }
+    public int getId() {
+        return id;
+    }
+    public String getPassword() {
+        return password;
+    }
 
 }
